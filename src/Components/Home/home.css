@@ -1,0 +1,16 @@
+.homeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.home {
+  background: wheat;
+  width: 500px;
+  height: 300px;
+  justify-content: space-around;
+  display: flex;
+  /* align-items: center; */
+  /* flex-direction: row; */
+  border-radius: 15px;
+}
